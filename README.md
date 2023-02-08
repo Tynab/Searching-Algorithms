@@ -1,3 +1,3 @@
-# SEARCH ALGORITHMS
+# SEARCHING ALGORITHMS
 - Breadth First Search
 - Depth First Search
